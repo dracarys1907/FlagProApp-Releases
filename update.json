@@ -1,6 +1,7 @@
 {
-  "latestVersionCode": 15,
-  "latestVersionName": "1.7.1",
-  "apkUrl": "https://github.com/dracarys1907/FlagProApp-Releases/releases/download/v1.7.1/app-release.apk",
+  "latestVersionCode": 16,
+  "latestVersionName": "1.7.2",
+  "apkUrl": "https://github.com/dracarys1907/FlagProApp-Releases/releases/download/v1.7.2/app-release.apk",
   "releaseNotes": "- Doğru ve Yanlış soru seslerindeki hata düzeltildi."
 }
+
