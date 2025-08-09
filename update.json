@@ -1,9 +1,10 @@
 {
-  "latestVersionCode": 13,
-  "latestVersionName": "1.6.8",
-  "apkUrl": "https://github.com/dracarys1907/FlagProApp-Releases/releases/download/v1.6.8/app-release.apk",
-  "releaseNotes": "- Hata Duzeltmeleri"
+  "latestVersionCode": 14,
+  "latestVersionName": "1.7",
+  "apkUrl": "https://github.com/dracarys1907/FlagProApp-Releases/releases/download/v1.7/app-release.apk",
+  "releaseNotes": "- Uygulama içi güncelleme denetleyicisini eklendi."
 }
+
 
 
 
